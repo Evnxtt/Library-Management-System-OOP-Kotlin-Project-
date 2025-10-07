@@ -154,7 +154,7 @@ Semua negative test selesai dijalankan tanpa error fatal.
 ---
 
 ## 👨‍💻 Pengembang
-**Nama:** (Isi nama kamu di sini)  
+**Nama:** Muhammad Putra Nugraha  
 **Institusi:** POLMAN  
 **Mata Kuliah:** Object Oriented Programming (OOP)  
 **Bahasa:** Kotlin  
